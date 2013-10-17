@@ -41,6 +41,7 @@ int main( )
 		cout << "                      2. Birta reglurnar i NIM" << endl;
 		cout << "                      3. Haetta " << endl << endl;
 		cout << "                      Veldu 1, 2 eda 3:" << endl << endl;
+		cout << "  G u n n a r O r r i K j a r t a n s s o n!!!" << endl << endl;
 		cout << " Gunnar Orri Kjartansson" << endl; 
 		cin >> val;
 
