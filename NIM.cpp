@@ -1,3 +1,4 @@
+
 //NIM dabs október 1997
 #include <iostream>
 #include <stdlib.h>
@@ -40,7 +41,10 @@ int main( )
 		cout << "                      2. Birta reglurnar i NIM" << endl;
 		cout << "                      3. Haetta " << endl << endl;
 		cout << "                      Veldu 1, 2 eda 3:" << endl << endl;
+		cout << " Gunnar Orri Kjartansson" << endl; 
 		cin >> val;
+
+		
 		switch ( val )
 		{
 		case 1:
