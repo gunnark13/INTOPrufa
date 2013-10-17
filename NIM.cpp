@@ -43,6 +43,7 @@ int main( )
 		cout << "                      Veldu 1, 2 eda 3:" << endl << endl;
 		cout << "  G u n n a r O r r i K j a r t a n s s o n!!!" << endl << endl;
 		cout << " Gunnar Orri Kjartansson" << endl; 
+		cout << "  hvernig er şetta ssh doteri" << endl << endl;
 		cin >> val;
 
 		
